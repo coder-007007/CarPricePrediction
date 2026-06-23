@@ -12,6 +12,14 @@ The application is deployed through **Streamlit**, making it easy to use through
 
 ---
 
+## 🌐 Live Application
+
+Try the deployed application here:
+
+**https://carpriceprediction-project.streamlit.app/**
+
+---
+
 ## ✨ Features
 
 ### 🔹 Interactive User Interface
