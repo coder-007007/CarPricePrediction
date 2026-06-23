@@ -93,12 +93,9 @@ CarPricePrediction/
 
 ## 📸 Application Preview
 
-Add a screenshot of your application here.
-
-Example:
-
 ```markdown
-![Car Price Predictor](images/app_screenshot.png)
+<img width="1920" height="1020" alt="{Car Price Prediction Preview}" src="https://github.com/user-attachments/assets/4e5935fb-49d1-47f3-ba05-c4cb1a14205d" />
+
 ```
 
 ---
